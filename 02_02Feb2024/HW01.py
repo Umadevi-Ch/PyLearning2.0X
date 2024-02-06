@@ -1,0 +1,6 @@
+name= input("Kari")
+age=input(5)
+roll_number= input("102")
+print("user name is", name)
+print("user age is", age)
+print("user roll number is", roll_number)
