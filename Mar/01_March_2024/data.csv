@@ -1,0 +1,3 @@
+username,password,expected result
+admin,admin,wrong
+admin,pass123,right
